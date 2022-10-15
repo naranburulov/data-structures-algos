@@ -27,13 +27,14 @@ public class MyQueue<T> {
 
     T dequeue() {
         QNode frontNode;
-
+// for one element in queue:
         if (isEmpty()) {
             throw new NoSuchElementException();
         }
         if (front==back){
             frontNode=front;
             front=back=null;
+ //now more than one element:
         }else{
             frontNode=front;
             front=front.next;
