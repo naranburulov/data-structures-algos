@@ -9,6 +9,10 @@ public class TreeApp {
 
         tree.preOrderTraversal(tree.root);
 
+        System.out.println();
+
+        tree.inOrderTraversal(tree.root);
+
 
 
     }
