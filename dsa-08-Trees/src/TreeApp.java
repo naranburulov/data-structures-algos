@@ -10,5 +10,6 @@ public class TreeApp {
         tree.preOrderTraversal(tree.root);
 
 
+
     }
 }

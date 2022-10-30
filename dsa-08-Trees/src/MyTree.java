@@ -43,6 +43,14 @@ public class MyTree {
         preOrderTraversal(root.rightChild);
 
     }
+
+    void inOrderTraversal(TNode root){
+        if (root==null)return;
+        inOrderTraversal(root.leftChild);
+        System.out.println(root.value +", ");
+        inOrderTraversal(root.rightChild);
+    }
+
 }
 
 
