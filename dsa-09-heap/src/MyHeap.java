@@ -117,7 +117,8 @@ public class MyHeap {
         else if (!hasRightChild(index)) {
             return leftChildIndex(index);
         }
-        return items[leftChildIndex(index)]>items[rightChildIndex(index)] ? leftChildIndex(index): rightChildIndex(index);
+        return items[leftChildIndex(index)]>items[rightChildIndex(index)]
+                ? leftChildIndex(index): rightChildIndex(index);
 
     }
 

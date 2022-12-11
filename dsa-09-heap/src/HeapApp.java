@@ -9,6 +9,15 @@ public class HeapApp {
         heap.insert(81);
         heap.printHeap();
 
+        heap.remove();
+        heap.printHeap();
+
+        heap.insert(130);
+        heap.printHeap();
+
+        heap.remove();
+        heap.printHeap();
+
 
 
     }

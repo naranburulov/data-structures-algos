@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/data-structures-master.iml" filepath="$PROJECT_DIR$/.idea/data-structures-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsa-08-Trees/dsa-08-Trees.iml" filepath="$PROJECT_DIR$/dsa-08-Trees/dsa-08-Trees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsa-09-heap/dsa-09-heap.iml" filepath="$PROJECT_DIR$/dsa-09-heap/dsa-09-heap.iml" />
+    </modules>
+  </component>
+</project>
