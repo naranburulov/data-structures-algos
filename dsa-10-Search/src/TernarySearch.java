@@ -12,7 +12,7 @@ public class TernarySearch {
             if (array[middle2] == data) return middle2;
 
             if (data < array[middle1]) right = middle1 - 1;
-            else if (data > array[middle2]) left = middle2 + 1;
+            else if (data > middle2) left = middle2 + 1;
             else {
                 left = middle1 + 1;
                 right = middle2 - 1;
