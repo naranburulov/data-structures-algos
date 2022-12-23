@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/data-structures-master.iml" filepath="$PROJECT_DIR$/.idea/data-structures-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/dsa-08-Trees/dsa-08-Trees.iml" filepath="$PROJECT_DIR$/dsa-08-Trees/dsa-08-Trees.iml" />
       <module fileurl="file://$PROJECT_DIR$/dsa-09-heap/dsa-09-heap.iml" filepath="$PROJECT_DIR$/dsa-09-heap/dsa-09-heap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsa-10-Search/dsa-10-Search.iml" filepath="$PROJECT_DIR$/dsa-10-Search/dsa-10-Search.iml" />
     </modules>
   </component>
 </project>
